@@ -46,10 +46,10 @@ A responsive Food Delivery web application built using **React.js**. The project
 ![Project Screenshot](Project_ScreenShot/SignUpPage.png)
 
 #CART_PAGE
-![Project Screenshot](Project_ScreenShot/Cart.png)
+![Project Screenshot](Project_ScreenShot/CartPage.png)
 
 #DELIVERY_INFORMATION
-![Project Screenshot](Project_ScreenShot/DeliveryInformation.png)
+![Project Screenshot](Project_ScreenShot/DeleveryInformation.png)
 
 #FOOTER
 ![Project Screenshot](Project_ScreenShot/Footer.png)
